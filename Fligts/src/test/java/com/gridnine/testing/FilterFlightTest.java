@@ -5,7 +5,6 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -40,7 +39,7 @@ class FilterFlightTest {
         List<Flight> expected = new ArrayList<>(List.copyOf(flights));
         expected.remove(5);
         expected.remove(4);
-        flights = filter.filterLongTimeOnGround(flights,120);
+        flights = filter.filterLongTimeOnGround(flights, 120);
         Assertions.assertEquals(expected, flights);
 
     }

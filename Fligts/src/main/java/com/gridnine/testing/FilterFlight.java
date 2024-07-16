@@ -4,8 +4,6 @@ import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
-import java.util.stream.Collectors;
 
 /**
  * Фильтрация полетов и возвращаемые отфильтрованные полеты.
@@ -35,7 +33,7 @@ public class FilterFlight implements Filter {
 
 
     @Override
-    public List<Flight> filterLongTimeOnGround(List<Flight> flights, long maxTime){
+    public List<Flight> filterLongTimeOnGround(List<Flight> flights, long maxTime) {
 
         List<Flight> result = new ArrayList<>();
         long maxTimeOnGround = maxTime;
