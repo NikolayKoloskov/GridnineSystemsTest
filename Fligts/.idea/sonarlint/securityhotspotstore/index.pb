@@ -1,6 +1,4 @@
 
-Q
-!src/main/java/Practicum/Main.java,f\2\f2b895df11c2b9f73ce2cbbdde651f92eb7d9b82
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 e

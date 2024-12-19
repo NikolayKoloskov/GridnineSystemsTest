@@ -1,7 +1,5 @@
 
-`
+†
 java:S1854
-"CRemove this useless assignment to local variable "filteredFlights".(Áìû§8»û¦Ş‹2
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(‘¨“ùıÿÿÿÿ8éÅŸŞ‹2J$7bb746cd-3f9a-4f08-bd85-950efd166e74
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(úóú”úÿÿÿÿ8ÙÓ¦Ş‹2J$2728ccd9-205f-475b-b2f8-c57a5eb45fe9
-r	java:S106"+Replace this use of System.out by a logger.(Åÿ®ûÿÿÿÿ8©§éİ‹2J$d5311c86-38d1-40b6-b30c-85af211b9271
+"CRemove this useless assignment to local variable "filteredFlights".(Áìû§8»û¦Ş‹2J$b96786eb-d4ac-4566-8281-a1db56fed7f7
+r	java:S106"+Replace this use of System.out by a logger.(Åÿ®ûÿÿÿÿ8©§éİ‹2J$e0ae1ef1-d56b-4af0-a965-ee186cdea6b3
